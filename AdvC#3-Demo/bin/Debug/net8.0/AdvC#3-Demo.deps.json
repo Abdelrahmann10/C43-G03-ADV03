@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AdvC#3-Demo/1.0.0": {
+        "runtime": {
+          "AdvC#3-Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvC#3-Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
